@@ -5,8 +5,6 @@
 - 🔭 &nbsp; I’m currently working on Angular & Node.js Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I studied mechatronics, took extra programming courses and did electrical engineering.
-- 💼 &nbsp; I work as a Fullstack Software Engineer.
-- 📝 &nbsp; I write stuff at [dev.to/nikosanif](https://dev.to/nikosanif) and [nikosanif.medium.com](https://nikosanif.medium.com/)
 - 🌱 &nbsp; Enthusiast in Angular and Web Technologies in general.
 - ⚡ &nbsp; I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code.
 - 😄 &nbsp; I like star wars.
